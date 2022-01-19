@@ -1,0 +1,13 @@
+.container {
+    background-color: white;
+    height: 80px;
+    padding: 15px;
+    box-shadow: 5px 10px 8px #c5c5c5
+}
+
+.title {
+    font-family: Montserrat,sans-serif;
+    color: #1e2053;
+    font-weight: 600;
+    font-size: 2.3rem;
+}

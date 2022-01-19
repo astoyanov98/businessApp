@@ -1,0 +1,11 @@
+.places_container {
+    background-color: white;
+    margin-bottom: 5vh;
+    padding: 20px;
+}
+
+.each_place {
+    background-color: #f8f8fd;
+    margin: 5px 10px 0px 10px;
+    padding: 10px;
+}

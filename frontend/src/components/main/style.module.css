@@ -1,0 +1,27 @@
+.container {
+    background-color: white;
+    margin-top: 4vh;
+    width: 80%;
+    display:grid;
+}
+
+.row {
+    padding: 15px;
+    border: 1px solid #f8f8fd;
+    font-weight: 600;
+}
+
+.row:hover {
+    background-color: #f8f8fd;
+    cursor: pointer;
+}
+
+.table_title {
+    font-weight: bold;
+    font-size: 24px;
+    color: #b7257c;
+}
+
+.span {
+    font-size: 0.9rem;
+}
